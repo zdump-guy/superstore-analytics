@@ -399,4 +399,3 @@ superstore-analytics/
 | **Unit & Integration Test Suite** | **COMPLIANT** | `tests/test_pipeline.py` ($7/7$ test cases passing with exit code 0). |
 
 ---
-*Created for Mini-Project 1: Advanced Python Data Exploration & Automated Reporting Pipeline.*
