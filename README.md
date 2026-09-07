@@ -396,4 +396,3 @@ superstore-analytics/
 | **Executable Jupyter Notebook** | **COMPLIANT** | `superstore_analysis.ipynb` executed cleanly top-to-bottom with all outputs embedded. |
 | **Unit & Integration Test Suite** | **COMPLIANT** | `tests/test_pipeline.py` ($7/7$ test cases passing with exit code 0). |
 
----
