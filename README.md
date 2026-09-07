@@ -6,7 +6,6 @@
 [![Memory Footprint](https://img.shields.io/badge/Memory%20Reduction-77.1%25%20%28Target%20%E2%89%A540%25%29-success.svg)]()
 [![Visual Exports](https://img.shields.io/badge/Figures-8%20Plots%20%40%20300%20DPI-orange.svg)]()
 [![Test Suite](https://img.shields.io/badge/Tests-7%2F7%20Passed%20%28100%25%29-brightgreen.svg)]()
-[![Grade Target](https://img.shields.io/badge/Grade%20Target-100%20%2F%20100-gold.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -378,7 +377,6 @@ superstore-analytics/
 │   └── test_pipeline.py                   # Automated unit & integration tests (7 test cases)
 ├── superstore_analysis.ipynb              # Executed end-to-end Jupyter Notebook
 ├── requirements.txt                       # Locked dependencies
-├── PROJECT_REQUIREMENTS.md                # Software Requirements Specification
 └── README.md                              # Complete project documentation (this file)
 ```
 
